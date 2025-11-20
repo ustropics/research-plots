@@ -1,0 +1,21 @@
+2025-10-31 00:03:27,756 - INFO - Script started at 2025-10-31 00:03:27
+2025-10-31 00:03:27,800 - INFO - Processing timestep 50
+2025-10-31 00:03:27,801 - ERROR - Timestep 50 failed: NetCDF: HDF error
+2025-10-31 00:03:27,801 - INFO - Processing timestep 51
+2025-10-31 00:04:42,949 - INFO - Saved figures_pbl_enthalpy\ian_pbl_enthalpy_0051.png
+2025-10-31 00:04:42,957 - ERROR - Timestep 51 failed: 'Transformer' object is not callable
+2025-10-31 00:04:42,957 - INFO - Processing timestep 52
+2025-10-31 00:04:42,957 - ERROR - Timestep 52 failed: NetCDF: HDF error
+2025-10-31 00:04:42,958 - INFO - Processing timestep 53
+2025-10-31 00:05:57,042 - INFO - Saved figures_pbl_enthalpy\ian_pbl_enthalpy_0053.png
+2025-10-31 00:05:57,047 - ERROR - Timestep 53 failed: 'Transformer' object is not callable
+2025-10-31 00:05:57,047 - INFO - Processing timestep 54
+2025-10-31 00:07:01,223 - INFO - Script started at 2025-10-31 00:07:01
+2025-10-31 00:07:01,262 - INFO - Processing timestep 50
+2025-10-31 00:07:01,262 - ERROR - Timestep 50 failed: NetCDF: HDF error
+2025-10-31 00:07:01,263 - INFO - Processing timestep 51
+2025-10-31 00:08:15,868 - INFO - Saved figures_pbl_enthalpy\ian_pbl_enthalpy_0051.png
+2025-10-31 00:08:15,880 - INFO - t=51 | P-center: 24.40,-83.88 | R-center: 24.47,-84.00 | offset=14.4 km
+2025-10-31 00:08:15,880 - INFO - Processing timestep 52
+2025-10-31 00:08:15,881 - ERROR - Timestep 52 failed: NetCDF: HDF error
+2025-10-31 00:08:15,881 - INFO - Processing timestep 53

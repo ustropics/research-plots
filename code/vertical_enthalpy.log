@@ -1,0 +1,72 @@
+2025-10-30 23:56:36,140 - INFO - === Script start ===
+2025-10-30 23:56:36,179 - INFO - Processing timesteps 50 \u2192 72
+2025-10-30 23:56:36,179 - INFO - --- Timestep 50 ---
+2025-10-30 23:56:36,180 - ERROR - Timestep 50 crashed: NetCDF: HDF error
+2025-10-30 23:56:36,180 - INFO - --- Timestep 51 ---
+2025-10-30 23:56:36,551 - WARNING - Timestep 51 vertical flux error: NetCDF: HDF error
+2025-10-30 23:56:36,576 - INFO - t=51 centre=24.398,-83.882 vert_avg=nan W/m²
+2025-10-30 23:56:36,576 - INFO - --- Timestep 52 ---
+2025-10-30 23:56:36,577 - ERROR - Timestep 52 crashed: NetCDF: HDF error
+2025-10-30 23:56:36,577 - INFO - --- Timestep 53 ---
+2025-10-30 23:56:36,942 - WARNING - Timestep 53 vertical flux error: NetCDF: HDF error
+2025-10-30 23:56:36,950 - INFO - t=53 centre=24.793,-83.989 vert_avg=nan W/m²
+2025-10-30 23:56:36,950 - INFO - --- Timestep 54 ---
+2025-10-30 23:56:38,931 - INFO - t=54 centre=24.950,-84.271 vert_avg=76296.5 W/m²
+2025-10-30 23:56:38,931 - INFO - --- Timestep 55 ---
+2025-10-30 23:56:40,633 - WARNING - Timestep 55 vertical flux error: NetCDF: HDF error
+2025-10-30 23:56:40,636 - INFO - t=55 centre=25.248,-84.010 vert_avg=nan W/m²
+2025-10-30 23:56:40,636 - INFO - --- Timestep 56 ---
+2025-10-30 23:56:42,553 - WARNING - Timestep 56 vertical flux error: NetCDF: HDF error
+2025-10-30 23:56:42,556 - INFO - t=56 centre=25.305,-84.447 vert_avg=nan W/m²
+2025-10-30 23:56:42,556 - INFO - --- Timestep 57 ---
+2025-10-30 23:57:34,428 - INFO - === VERTICAL ENTHALPY SCRIPT START ===
+2025-10-30 23:57:34,466 - INFO - Timestep 50
+2025-10-30 23:57:34,466 - ERROR - Timestep 50 crashed: NetCDF: HDF error
+2025-10-30 23:57:34,466 - INFO - Timestep 51
+2025-10-30 23:57:34,803 - WARNING - Timestep 51 vertical flux error: NetCDF: HDF error
+2025-10-30 23:57:34,820 - INFO - t=51 lat=24.398 lon=-83.882 vert_avg=nan
+2025-10-30 23:57:34,820 - INFO - Timestep 52
+2025-10-30 23:57:34,821 - ERROR - Timestep 52 crashed: NetCDF: HDF error
+2025-10-30 23:57:34,821 - INFO - Timestep 53
+2025-10-30 23:57:35,158 - WARNING - Timestep 53 vertical flux error: NetCDF: HDF error
+2025-10-30 23:57:35,174 - INFO - t=53 lat=24.793 lon=-83.989 vert_avg=nan
+2025-10-30 23:57:35,174 - INFO - Timestep 54
+2025-10-30 23:57:36,988 - INFO - t=54 lat=24.950 lon=-84.271 vert_avg=76296.5
+2025-10-30 23:57:36,988 - INFO - Timestep 55
+2025-10-30 23:57:37,002 - ERROR - Timestep 55 crashed: index 209 is out of bounds for axis 0 with size 33
+2025-10-30 23:57:37,002 - INFO - Timestep 56
+2025-10-30 23:57:37,017 - ERROR - Timestep 56 crashed: index 188 is out of bounds for axis 0 with size 33
+2025-10-30 23:57:37,017 - INFO - Timestep 57
+2025-10-30 23:57:37,031 - ERROR - Timestep 57 crashed: index 225 is out of bounds for axis 0 with size 33
+2025-10-30 23:57:37,031 - INFO - Timestep 58
+2025-10-30 23:57:37,058 - ERROR - Timestep 58 crashed: index 223 is out of bounds for axis 0 with size 33
+2025-10-30 23:57:37,059 - INFO - Timestep 59
+2025-10-30 23:57:37,081 - ERROR - Timestep 59 crashed: index 245 is out of bounds for axis 0 with size 33
+2025-10-30 23:57:37,081 - INFO - Timestep 60
+2025-10-30 23:57:37,107 - ERROR - Timestep 60 crashed: index 250 is out of bounds for axis 0 with size 33
+2025-10-30 23:57:37,107 - INFO - Timestep 61
+2025-10-30 23:57:37,111 - ERROR - Timestep 61 crashed: NetCDF: HDF error
+2025-10-30 23:57:37,111 - INFO - Timestep 62
+2025-10-30 23:57:37,136 - ERROR - Timestep 62 crashed: index 292 is out of bounds for axis 0 with size 33
+2025-10-30 23:57:37,136 - INFO - Timestep 63
+2025-10-30 23:57:37,156 - ERROR - Timestep 63 crashed: index 298 is out of bounds for axis 0 with size 33
+2025-10-30 23:57:37,156 - INFO - Timestep 64
+2025-10-30 23:57:37,175 - ERROR - Timestep 64 crashed: index 322 is out of bounds for axis 0 with size 33
+2025-10-30 23:57:37,176 - INFO - Timestep 65
+2025-10-30 23:57:37,178 - ERROR - Timestep 65 crashed: NetCDF: HDF error
+2025-10-30 23:57:37,178 - INFO - Timestep 66
+2025-10-30 23:57:37,199 - ERROR - Timestep 66 crashed: index 341 is out of bounds for axis 0 with size 33
+2025-10-30 23:57:37,199 - INFO - Timestep 67
+2025-10-30 23:57:37,221 - ERROR - Timestep 67 crashed: index 364 is out of bounds for axis 0 with size 33
+2025-10-30 23:57:37,221 - INFO - Timestep 68
+2025-10-30 23:57:37,243 - ERROR - Timestep 68 crashed: index 373 is out of bounds for axis 0 with size 33
+2025-10-30 23:57:37,243 - INFO - Timestep 69
+2025-10-30 23:57:37,266 - ERROR - Timestep 69 crashed: index 368 is out of bounds for axis 0 with size 33
+2025-10-30 23:57:37,266 - INFO - Timestep 70
+2025-10-30 23:57:37,286 - ERROR - Timestep 70 crashed: index 394 is out of bounds for axis 0 with size 33
+2025-10-30 23:57:37,286 - INFO - Timestep 71
+2025-10-30 23:57:37,306 - ERROR - Timestep 71 crashed: index 404 is out of bounds for axis 0 with size 33
+2025-10-30 23:57:37,306 - INFO - Timestep 72
+2025-10-30 23:57:42,134 - ERROR - Timestep 72 crashed: index 389 is out of bounds for axis 0 with size 33
+2025-10-30 23:57:42,134 - INFO - Script finished. Elapsed: 7.7 s
+2025-10-31 00:10:20,776 INFO === TIMESTEP 50 ===
